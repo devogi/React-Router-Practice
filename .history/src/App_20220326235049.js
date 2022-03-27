@@ -23,5 +23,5 @@ function App() {
     </Router>
   );
 }
-
+git reset --hard HEAD~2
 export default App;
